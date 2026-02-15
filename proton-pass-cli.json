@@ -12,7 +12,7 @@
     },
     "checkver": {
         "url": "https://proton.me/download/pass-cli/versions.json",
-        "regex": "\"version\":\\s*\"([\\d.]+)\""
+        "jsonpath": "$.passCliVersions.version"
     },
     "autoupdate": {
         "architecture": {
