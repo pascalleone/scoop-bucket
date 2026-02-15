@@ -3,7 +3,7 @@
     "description": "A CLI tool for Proton Pass",
     "homepage": "https://protonpass.github.io/pass-cli/",
     "license": "Unknown",
-    "architectures": {
+    "architecture": {
         "64bit": {
             "url": "https://proton.me/download/pass-cli/1.4.3/pass-cli-windows-x86_64.zip",
             "bin": "pass-cli.exe",
