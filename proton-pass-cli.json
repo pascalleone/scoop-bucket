@@ -1,13 +1,13 @@
 {
-    "version": "1.5.2",
+    "version": "1.8.0",
     "description": "A CLI tool for Proton Pass",
     "homepage": "https://protonpass.github.io/pass-cli/",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://proton.me/download/pass-cli/1.5.2/pass-cli-windows-x86_64.zip",
+            "url": "https://proton.me/download/pass-cli/1.8.0/pass-cli-windows-x86_64.zip",
             "bin": "pass-cli.exe",
-            "hash": "d6a6ebe354b1bd839fbe11b147f3d77885ca801df0199c8c9f03e0cdc1193b0d"
+            "hash": "4ef33eb8cf83047f005eb83895bcfd69687fc5b606f8fbb1f75c05ce06781a0f"
         }
     },
     "checkver": {
